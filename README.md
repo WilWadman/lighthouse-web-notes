@@ -7,4 +7,4 @@ This repository contains all of the notes taken by [Will](https://github.com/Wil
 ## Table of contents
 
   * [Week 1](/Week_1)
-  * [Day 1](/Week_1/Day_1)
+    * [Day 1](/Week_1/Day_1)
